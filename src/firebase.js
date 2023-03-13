@@ -1,3 +1,4 @@
+//!Para copiar esto vamos a FireBase > nuestro proyecto > configuración del proyecto
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 //!importar para poder acceder al almacenamiento de firebase
