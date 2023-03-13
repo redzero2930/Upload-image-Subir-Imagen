@@ -1,3 +1,4 @@
+//*Video usado de base: https://www.youtube.com/watch?v=YOAeBSCkArA
 //!Antes que nada
 //?npm install firebase
 //?npm install uuid
